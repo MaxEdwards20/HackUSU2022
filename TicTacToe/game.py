@@ -16,7 +16,6 @@ class TicTacToe:
             print('| ' + " | ".join(row) + " |")
 
     def available_moves(self):
-        print(self.board[8])
         return [i for i, spot in enumerate(self.board) if spot == " "]
 
     def empty_squares(self):

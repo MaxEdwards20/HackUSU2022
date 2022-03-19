@@ -1,8 +1,8 @@
-from player import HumanPlayer, RandomComputerPlayer
+from player import HumanPlayer, RandomComputerPlayer, GeniusComputerPlayer
 from game import TicTacToe, play
 
 if __name__ == '__main__':
-    x_player = HumanPlayer("X")
-    o_player = RandomComputerPlayer("O")
+    x_player = RandomComputerPlayer("X")
+    o_player = GeniusComputerPlayer("O")
     game = TicTacToe()
-    play(game, x_player, o_player, True)
+    play(game, x_player, o_player, False)
