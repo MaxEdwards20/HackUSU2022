@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdae14e3-c9c2-4c94-bc3e-b14fc0a781ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mainMenu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SNAKE CALI BACKUP/.idea/SNAKE CALI BACKUP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeCali/.idea/SNAKE CALI BACKUP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SNAKE CALI BACKUP/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeCali/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SNAKE CALI BACKUP/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeCali/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SNAKE CALI BACKUP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeCali/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SNAKE CALI BACKUP/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeCali/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SNAKE CALI BACKUP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeCali/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SNAKE CALI BACKUP/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/SnakeCali/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToe/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="fdae14e3-c9c2-4c94-bc3e-b14fc0a781ea" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,5 +100,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
